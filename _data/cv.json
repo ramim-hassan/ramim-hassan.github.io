@@ -1,32 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Md Ramim Hassan Shawn",
+    "email": "ramimhassan.sh@gmail.com",
+    "phone": "01708533382",
+    "website": "https://ramim-hassan.github.io",
+    "summary": "Fresh Graduate, EEE, BUET | AI/ML & Medical Imaging Enthusiast | Fall '26 Aspirant",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Dhaka",
+      "countryCode": "Bangladesh",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ramimhasan02",
+        "url": "https://github.com/ramimhasan02"
       }
     ]
   },
